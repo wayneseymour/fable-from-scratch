@@ -13,6 +13,7 @@
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">/Users/tre/.nuget/packages/fsharp.core/4.7.0</PkgFSharp_Core>
+    <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">/Users/tre/.nuget/packages/fsharp.core/4.7.1</PkgFSharp_Core>
+    <PkgFable_Core Condition=" '$(PkgFable_Core)' == '' ">/Users/tre/.nuget/packages/fable.core/3.1.5</PkgFable_Core>
   </PropertyGroup>
 </Project>

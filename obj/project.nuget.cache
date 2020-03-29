@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "W4+auHSTJXxDAVZJZkq2lREy3Pblz7vHeUZzy4yWGPQEPc0oNTNcIqt6PRWwMuRoXc6hORtywzJ4ZhVxw3Q/PA==",
+  "dgSpecHash": "p2js8FQ23LloDdATdkypL4kHrlLmFR49iu3WNN4d1Ro06YpaYS3BD2gBxqLsiSau6DMXsapQKKlV1qF4kcq4Hg==",
   "success": true,
   "projectFilePath": "/Users/tre/development/research/fable-research/fable-from-scratch/fable-from-scratch.fsproj",
   "expectedPackageFiles": [
-    "/Users/tre/.nuget/packages/fsharp.core/4.7.0/fsharp.core.4.7.0.nupkg.sha512"
+    "/Users/tre/.nuget/packages/fable.core/3.1.5/fable.core.3.1.5.nupkg.sha512",
+    "/Users/tre/.nuget/packages/fsharp.core/4.7.1/fsharp.core.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
